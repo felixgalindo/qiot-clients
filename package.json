@@ -1,0 +1,13 @@
+{
+  "author": "Felix Galindo",
+  "version": "1.0.0",
+  "description": "QIOT Platform MQTT Client Module",
+    "bluebird": "3.2.1",
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "repository": {
+    "type": "mercurial",
+    "url": ""
+  }
+}
