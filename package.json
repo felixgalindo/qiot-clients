@@ -1,8 +1,10 @@
 {
+  "name": "qiot-mqtt-client",
   "author": "Felix Galindo",
   "version": "1.0.0",
   "description": "QIOT Platform MQTT Client Module",
-    "bluebird": "3.2.1",
+  "dependencies": {
+    "mqtt": "^2.4.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
