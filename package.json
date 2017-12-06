@@ -1,10 +1,9 @@
 {
-  "name": "qiot-mqtt-client",
+  "name": "qiot-https-client",
   "author": "Felix Galindo",
   "version": "1.0.0",
-  "description": "QIOT Platform MQTT Client Module",
+  "description": "QIOT Platform HTTPS Client Module",
   "dependencies": {
-    "mqtt": "^2.4.0"
   },
   "devDependencies": {},
   "optionalDependencies": {},
